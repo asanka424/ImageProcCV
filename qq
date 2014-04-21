@@ -1,0 +1,65 @@
+[33mcommit 3509ebfa08dd1f0959347b42e9d64520a2662c47[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Wed Oct 10 10:52:34 2012 -0400
+
+    Error numbers updated
+
+[33mcommit b7db949eb62260af3dc83d5bdc4035712778df78[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Thu Oct 4 11:06:34 2012 -0400
+
+    additional files removed
+
+[33mcommit 04fe12d9a76fb22ab1bbd352ecfb4016b5bad8aa[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Thu Oct 4 11:05:22 2012 -0400
+
+    recoded files added
+
+[33mcommit 2df57f4a4766e325096313cd511e02fc246ab336[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Thu Sep 27 15:47:47 2012 -0400
+
+    Seperating source folder into two
+
+[33mcommit 1435d8afd30af34182816f5c5cb39a235a35f5cc[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Wed Sep 5 16:02:36 2012 -0400
+
+    re-coding according to guidelines
+
+[33mcommit 3b1d0482d9fd4484f1aff4528e5692f1b65c96c3[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Wed Sep 5 15:21:00 2012 -0400
+
+    recoding according to guidelines
+
+[33mcommit 0f099f6992beeb9d7f90564edcaa36458dd1e658[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Wed Jun 20 15:27:17 2012 -0400
+
+    project file format changed inorder to use with linux
+
+[33mcommit 9dcae5dab51eff004a71a99ae8baa9f8b3d47960[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Mon May 14 12:44:41 2012 -0400
+
+    test sharcnet commit
+
+[33mcommit 2bfabb73bf68e26dc9335e6bef6b6dd73e34bed9[m
+Author: asanka <acer@acer-PC.(none)>
+Date:   Mon May 14 12:32:36 2012 -0400
+
+    normal commit
+
+[33mcommit 11d300bb4ebb563788614db90c4ecf7cd32fa240[m
+Author: Asanka <acer@acer-PC.(none)>
+Date:   Wed Apr 25 13:02:09 2012 -0400
+
+    Correcting lower case letters
+
+[33mcommit e211cdc33d629d6d5261a89ac09eb884d0b72f4e[m
+Author: Asanka <acer@acer-PC.(none)>
+Date:   Tue Apr 3 16:32:50 2012 -0400
+
+    CannyEdgedetector bug fixed
